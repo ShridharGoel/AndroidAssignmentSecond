@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Assignment Second</string>
+    <string name="dismiss_now">Dismiss Now</string>
+    <string name="remind_later">Remind Later</string>
+</resources>
